@@ -1,0 +1,21 @@
+INVOICE GOD
+
+INVOICE NUMBER: 1233
+
+Customer details
+
+name  Prakhar
+
+Location  Delhi
+
+Phone  995856604
+
+Qty. Item# Description Unit Price Discount Line Total
+
+1 22 Special maggi 80 0 80
+
+Total Discount 0
+
+Total 80
+
+Thank you for your business!
